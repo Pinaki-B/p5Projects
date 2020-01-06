@@ -4,7 +4,7 @@ p5.js-based Sand Visual
 
 EXPLANATION
 A stream of particles (sand) is constantly falling from the user's cursor and forms into mini hills.
-In order to control the position/display/logic of sand, the screen is indexed with a
+In order to control the position/display/logic of sand, the screen is indexed with a boolean table
 
 SAND LOGIC
 If a sand piece falls on top of another stationary sand piece, there are three options for its movement:
