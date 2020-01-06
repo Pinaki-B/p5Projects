@@ -14,6 +14,6 @@ If a sand piece falls on top of another stationary sand piece, there are three o
 
 
 
-TO FIX
+TODO
 Relies on 2D boolean array the size of the screen... - Very poor optimization
   - Maybe make it scale up so you have smaller boolean tables and bigger sand pieces
